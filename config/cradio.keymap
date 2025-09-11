@@ -73,10 +73,10 @@
             &kp ESC     &kp F1     &kp F2    &kp F5      &kp T         &kp CARET  &kp LPAR   &kp RPAR   &kp RBKT   &kp TILDE
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│          │  1       │  2       │  3       │  G       │   │  *       │  -       │  =       │  \       │  `       │
-            &kp TAB     &kp 1     &kp 2      &kp 3      &kp G      &kp ASTRK  &kp MINUS  &kp EQUAL  &kp BSLH   &kp GRAVE
+            &kp TAB     &kp N1     &kp N2     &kp N3      &kp G          &kp ASTRK  &kp MINUS  &kp EQUAL  &kp BSLH   &kp GRAVE
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│   ~      │          │          │          │          │   │  &       │  _       │  +       │  │       │          │
-            &kp GRAVE     &trans     &trans     &trans     &kp B         &kp AMPS   &kp UNDER  &kp PLUS   &kp PIPE   &trans
+            &kp TILDE   &trans     &trans     &trans     &kp B         &kp AMPS   &kp UNDER  &kp PLUS   &kp PIPE   &trans
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                              &trans     &kp LALT        &trans     &trans
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
