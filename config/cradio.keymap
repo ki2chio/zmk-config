@@ -75,8 +75,8 @@
         //│   tab    │  1       │  2       │  3       │  G       │   │  *       │  -       │  =       │  \       │  `       │
             &kp TAB     &kp N1     &kp N2     &kp N3      &kp G          &kp ASTRK  &kp MINUS  &kp EQUAL  &kp BSLH &kp GRAVE
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
-        //│          │          │          │          │   B      │   │  &       │  _       │  +       │  │       │          │
-            &trans     &trans     &trans     &trans     &kp B         &kp AMPS   &kp UNDER  &kp PLUS   &kp PIPE   &trans
+        //│          │    4     │   5      │    6     │   B      │   │  &       │  _       │  +       │  │       │          │
+            &trans     &kp N4     &kp N5     &kp N6     &kp B         &kp AMPS   &kp UNDER  &kp PLUS   &kp PIPE   &trans
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                              &trans     &kp LALT        &trans     &trans
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
