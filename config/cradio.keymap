@@ -7,7 +7,7 @@
 
 // Home row mods macro
 //#define HRML(k1,k2,k3,k4) &ht LSHFT k1  &ht LALT k2  &ht LCTRL k3  &ht LGUI k4
-//#define HRMR(k1,k2,k3,k4) &ht RGUI k1  &ht RCTRL k2  &ht RALT k3  &ht RSHFT k4
+/#define HRMR(k1,k2,k3,k4) &ht RGUI k1  &ht RCTRL k2  &ht RALT k3  &ht RSHFT k4
 
 / {
     behaviors {
@@ -72,10 +72,10 @@
         //│     ESC  │  F1      │  F2      │  F5      │    T     │   │  ^       │  (       │  )       │  ]       │  ~       │
             &kp ESC     &kp F1     &kp F2    &kp F5      &kp T         &kp CARET  &kp LPAR   &kp RPAR   &kp RBKT   &kp TILDE
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
-        //│          │  1       │  2       │  3       │  G       │   │  *       │  -       │  =       │  \       │  `       │
-            &kp TAB     &kp N1     &kp N2     &kp N3      &kp G          &kp ASTRK  &kp MINUS  &kp EQUAL  &kp BSLH   &kp GRAVE
+        //│   tab    │  1       │  2       │  3       │  G       │   │  *       │  -       │  =       │  \       │  `       │
+            &kp TAB     &kp N1     &kp N2     &kp N3      &kp G          &kp ASTRK  &kp MINUS  &kp EQUAL  &kp BSLH &kp GRAVE
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
-        //│   ~      │          │          │          │          │   │  &       │  _       │  +       │  │       │          │
+        //│     ~    │          │          │          │   B      │   │  &       │  _       │  +       │  │       │          │
             &kp TILDE   &trans     &trans     &trans     &kp B         &kp AMPS   &kp UNDER  &kp PLUS   &kp PIPE   &trans
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                              &trans     &kp LALT        &trans     &trans
