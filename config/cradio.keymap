@@ -56,7 +56,7 @@
             &kp LSHFT   &kp  A     &kp S      &kp D     &kp F            &kp H      HRMR(J,        K,         L,        SQT)
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│  CTRL    │  Z       │  X       │ C        │  V       │   │  N       │  M       │ , <      │ . >      │ / ?      
-            &kp RCTRL   &kp Z      &kp X      &kp C      &kp B           &kp N      &kp M   &kp COMMA   &kp DOT   &kp FSLH
+            &kp RCTRL   &kp Z      &kp X      &kp C      &kp V           &kp N      &kp M   &kp COMMA   &kp DOT   &kp FSLH
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                             &lt gaming_left_layer TAB   &kp SPACE     &kp ENTER  &lt gaming_right_layer BSPC
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
